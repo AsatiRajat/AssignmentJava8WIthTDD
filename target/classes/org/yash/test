@@ -1,0 +1,40 @@
+
+1
+// int index = list.indexOf(replacedNumber);
+// list.remove(index);
+// list.add(replacementNumber);
+
+3
+// LocalDate localDate = LocalDate.now();
+// LocalDate actual = changeDate.changeCurrectToNewDate(false);
+// Integer numberOfDays = scanner.nextInt();
+// LocalDate expected = localDate.plusDays(numberOfDays);
+// assertEquals(expected, actual);
+// LocalDate localDate = LocalDate.now();
+// Integer numberOfDays = scanner.nextInt();
+// LocalDate expected = localDate.plusDays(numberOfDays);
+// when(scanner.nextInt()).thenReturn(1, 2);
+// verify(drinkServiceFactory).getDrinkServiceInstance(1);
+// vendingMachineOptions.vendingMachineOptions(false);
+// when(scanner.nextInt()).thenReturn(10);
+
+4
+// Integer minNumber = Arrays.stream(numArray).min().getAsInt();
+// Integer maxNumber = Arrays.stream(numArray).min().getAsInt();
+// if (numArray.length > 0) {
+// if (numberType.equals("min"))
+// return minNumber;
+// else if (numberType.equals("max"))
+// return maxNumber;
+// }
+// return 0;
+
+6
+// for (char c : charArr) {
+// if (c == 'a' || c == 'e' || c == 'i' || c == 'o' || c == 'u' || c ==
+// 'A' || c == 'E' || c == 'I' || c == 'O'
+// || c == 'U') {
+// count++;
+// }
+// }
+
